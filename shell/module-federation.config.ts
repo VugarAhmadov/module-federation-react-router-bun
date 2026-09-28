@@ -10,5 +10,6 @@ export default createModuleFederationConfig({
   shared: {
     react: { singleton: true },
     "react-dom": { singleton: true },
+    "@tanstack/react-router": { singleton: true },
   },
 });
