@@ -4,11 +4,10 @@ body {
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
 }
 
-.content-remote {
+.content-shell {
   display: flex;
   line-height: 1.1;
   text-align: center;
   flex-direction: column;
   justify-content: center;
-  border: 1px solid red;
 }

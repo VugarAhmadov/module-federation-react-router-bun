@@ -1,11 +1,10 @@
 import { createModuleFederationConfig } from "@module-federation/rsbuild-plugin";
 
 export default createModuleFederationConfig({
-  name: "host",
-  remotes: {
-    "remote": "remote@http://localhost:3001/mf-manifest.json",
+  name: "remote1",
+  exposes: {
+    "./App": "./src/app.tsx",
   },
-  shareStrategy: "loaded-first",
   shared: {
     react: { singleton: true },
     "react-dom": { singleton: true },

@@ -1,5 +1,5 @@
 {
-  "name": "host",
+  "name": "shell",
   "version": "1.0.0",
   "private": true,
   "type": "module",
@@ -9,11 +9,11 @@
     "preview": "bun run --bun rsbuild preview"
   },
   "dependencies": {
-    "@module-federation/rsbuild-plugin": "^2.9.1",
     "react": "19.3.0",
     "react-dom": "19.3.0"
   },
   "devDependencies": {
+    "@module-federation/rsbuild-plugin": "2.9.2",
     "@rsbuild/core": "2.2.9",
     "@rsbuild/plugin-react": "2.1.0",
     "@types/bun": "^1.4.2",
