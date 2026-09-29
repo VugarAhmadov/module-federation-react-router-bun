@@ -1,10 +1,10 @@
 {
   "latestErrorEvent": {
     "code": "TYPE-001",
-    "message": "Failed to generate type declaration. Execute the below cmd to reproduce and fix the error. #TYPE-001\nargs: {\"cmd\":\"/Users/vugarahmadov/.bun/bin/bun /Users/vugarahmadov/projects/test/module-federation-bun/remote-1/node_modules/typescript/bin/tsc --project /Users/vugarahmadov/projects/test/module-federation-bun/remote-1/node_modules/.federation/tsconfig.c4b34a35b71193e7385b8dcb322d9fed.json\"}\nView the docs to see how to solve: https://module-federation.io/guide/troubleshooting/type#type-001",
+    "message": "Failed to generate type declaration. Execute the below cmd to reproduce and fix the error. #TYPE-001\nargs: {\"cmd\":\"/Users/vugarahmadov/.bun/bin/bun /Users/vugarahmadov/projects/test/module-federation-bun/remote-1/node_modules/typescript/bin/tsc --project /Users/vugarahmadov/projects/test/module-federation-bun/remote-1/node_modules/.federation/tsconfig.2a8eb744109dcae98db1e5ae1d22580c.json\"}\nView the docs to see how to solve: https://module-federation.io/guide/troubleshooting/type#type-001",
     "args": {
-      "cmd": "/Users/vugarahmadov/.bun/bin/bun /Users/vugarahmadov/projects/test/module-federation-bun/remote-1/node_modules/typescript/bin/tsc --project /Users/vugarahmadov/projects/test/module-federation-bun/remote-1/node_modules/.federation/tsconfig.c4b34a35b71193e7385b8dcb322d9fed.json"
+      "cmd": "/Users/vugarahmadov/.bun/bin/bun /Users/vugarahmadov/projects/test/module-federation-bun/remote-1/node_modules/typescript/bin/tsc --project /Users/vugarahmadov/projects/test/module-federation-bun/remote-1/node_modules/.federation/tsconfig.2a8eb744109dcae98db1e5ae1d22580c.json"
     },
-    "timestamp": 1790583440668
+    "timestamp": 1790685174729
   }
 }

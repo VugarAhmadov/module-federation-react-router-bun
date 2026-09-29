@@ -1,0 +1,10 @@
+{
+  "latestErrorEvent": {
+    "code": "TYPE-001",
+    "message": "Failed to generate type declaration. Execute the below cmd to reproduce and fix the error. #TYPE-001\nargs: {\"cmd\":\"/Users/vugarahmadov/.bun/bin/bun /Users/vugarahmadov/projects/test/module-federation-bun/remote-2/node_modules/typescript/bin/tsc --project /Users/vugarahmadov/projects/test/module-federation-bun/remote-2/node_modules/.federation/tsconfig.b1c09347e6896b9b17fcb68f108f5fcf.json\"}\nView the docs to see how to solve: https://module-federation.io/guide/troubleshooting/type#type-001",
+    "args": {
+      "cmd": "/Users/vugarahmadov/.bun/bin/bun /Users/vugarahmadov/projects/test/module-federation-bun/remote-2/node_modules/typescript/bin/tsc --project /Users/vugarahmadov/projects/test/module-federation-bun/remote-2/node_modules/.federation/tsconfig.b1c09347e6896b9b17fcb68f108f5fcf.json"
+    },
+    "timestamp": 1790685058577
+  }
+}
