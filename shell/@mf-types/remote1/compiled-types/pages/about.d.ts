@@ -1,1 +1,1 @@
-export default function HomePage(): import("react").JSX.Element;
+export default function AboutPage(): import("react").JSX.Element;
